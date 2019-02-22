@@ -35,8 +35,8 @@ void InsertionSort(int *arr, int len)
         }
         arr[i+1] = key;
     }
-    for (int a = 0; a< 6; a++) {
-      printf("arr[6] = %d", arr[a]);
+    for (int a = 0; a < len; a++) {
+      printf("arr[%d] = %d", a , arr[a]);
     }
 
 }
