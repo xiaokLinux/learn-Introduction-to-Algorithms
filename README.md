@@ -1,4 +1,4 @@
 # learn-Introduction-to-Algorithms
-Implement an algorithm every day
+Implement an algorithm free day
 
 
